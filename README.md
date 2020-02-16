@@ -7,6 +7,8 @@
 
 ![ImageEx](/ScreenExample3.PNG?raw=true "Optional Title")
 
+<p>The darker a stripe is the higher its count is. the count represents the number of times a pattern has been seen in the data. the parallel axis contain the actions that constitute the paterns</p>
+
 <p><strong style="color: #000;">Interaction &amp; Filters:<br /></strong></p>
 <ul>
 <li>The ability to load any Xml log file.</li>
