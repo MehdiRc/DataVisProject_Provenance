@@ -49,14 +49,15 @@ _We have provided the python code (DataVis.py) and an example dataset (ExampleIn
 The code for this project was made using [python 3.7](https://docs.python.org/3/using/windows.html)
 
 ### Dash 1.8.0:
-[install Dash](https://dash.plot.ly/installation)
+[install Dash](https://dash.plot.ly/installation)  
+`pip install dash==1.8.0`
 
 ### Plotly 4.5.2:
 Plotly should be installed automatically once you install Dash but if for some reason you do not have it even after installing Dash here is the [Link to install Plotly](https://plot.ly/python/getting-started/) 
 
 ### Pandas 0.24.2
-[install Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-
+[install Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)  
+`pip install pandas`
 ## Running:
 -Download DataVis.py and ExampleInput.xml.  
 -Run DataVis.py with the command ` python DataVis.py`  
