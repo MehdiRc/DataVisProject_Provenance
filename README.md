@@ -3,7 +3,7 @@
 <p><strong style="color: #000;"></strong></p>
 
 <p> 
-  <em> Note: We have provided the python code (DataVis.py) and an example dataset (ExampleInput.xml) above. If you want to run the project  on your machine you just need to install <a href="https://dash.plot.ly/installation">Dash</a> then execute the code as you would any python code (see demo video). </em>
+  <em> Note: We have provided the python code (DataVis.py) and an example dataset (ExampleInput.xml) above. If you want to run the project see bellow for instructions. </em>
 </p>
 
 <hr>
