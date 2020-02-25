@@ -65,7 +65,7 @@ Plotly should be installed automatically once you install Dash but if for some r
 ![prompt](/prompt.PNG?raw=true "")
 -Copy the address in your browser of choice  
 -Done! you can upload ExampleInput.xml with the file chooser and interact with the visualisation.  
-![upload](/upload.PNG?raw=true "")
+![upload](/upload.png?raw=true "")
      
       
     
