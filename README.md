@@ -2,9 +2,8 @@
 <h4><code>Trade-off Analysis</code></h4>
 <p><strong style="color: #000;"></strong></p>
 
-<p> 
-  <em> Note: We have provided the python code (DataVis.py) and an example dataset (ExampleInput.xml) above. If you want to run the project see bellow for instructions. </em>
-</p>
+#### _Note:_
+_We have provided the python code (DataVis.py) and an example dataset (ExampleInput.xml) above. If you want to run the project see [bellow](https://github.com/MehdiRc/DataVisProject_Provenance/blob/master/README.md#how-to-run) for instructions._
 
 <hr>
 
