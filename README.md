@@ -39,6 +39,34 @@
 <li>Inclusion/Exclusion filters for the actions (not yet implemented for dimensions).</li>
 <li>"No loop" filter to remove the instances where an action loops over itself.</li>
 </ul>
-<p><strong style="color: #000;">Video Demo:</strong>&nbsp;<br /><a href="https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be">https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be</a></p>
+<p><strong style="color: #000;">Video Demo (Previous version|before reviews):</strong>&nbsp;<br /><a href="https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be">https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be</a></p>
 <p></p>
 
+# How to run:
+
+## Dependecies:
+
+### Python 3.7:
+The code for this project was made using python 3.7
+
+### Dash 1.8.0:
+[install Dash](https://dash.plot.ly/installation)
+
+### Plotly 4.5.2:
+Plotly should be installed automatically once you install Dash but if for some reason you do not have it even after installing Dash here is the [Link to install Plotly](https://plot.ly/python/getting-started/) 
+
+### Pandas 0.24.2
+[install Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+
+## Running:
+-Download DataVis.py and ExampleInput.xml.  
+-Run DataVis.py with the command ` python DataVis.py`  
+-The program will launch a local server and give you the address it is running at    
+-Copy the address in your browser of choice  
+-Done! you can upload ExampleInput.xml with the file chooser and interact with the visualisation.  
+     
+     
+      
+    
+    
+ 
