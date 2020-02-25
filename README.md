@@ -47,7 +47,7 @@
 ## Dependecies:
 
 ### Python 3.7:
-The code for this project was made using python 3.7
+The code for this project was made using [python 3.7](https://docs.python.org/3/using/windows.html)
 
 ### Dash 1.8.0:
 [install Dash](https://dash.plot.ly/installation)
