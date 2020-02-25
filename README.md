@@ -24,7 +24,7 @@
   <strong style="color: #000;">Our visualisation choice</strong>: A parallel axis graph that shows the patterns in the actions and dimensions with the ability to filter the data and explore different lengths of patterns.
 </p>
 
-![ImageEx](/ScreenExample3.PNG?raw=true "Optional Title")
+![ImageEx](/ScreenExample4.PNG?raw=true "")
 
 <p>The darker a stripe is, the higher its count is. the count represents the number of times a pattern has been seen in the data. the parallel axis contain the actions that constitute the paterns</p>
 
@@ -61,10 +61,11 @@ Plotly should be installed automatically once you install Dash but if for some r
 ## Running:
 -Download DataVis.py and ExampleInput.xml.  
 -Run DataVis.py with the command ` python DataVis.py`  
--The program will launch a local server and give you the address it is running at    
+-The program will launch a local server and give you the address it is running at
+![prompt](/prompt.PNG?raw=true "")
 -Copy the address in your browser of choice  
 -Done! you can upload ExampleInput.xml with the file chooser and interact with the visualisation.  
-     
+![upload](/upload.PNG?raw=true "")
      
       
     
