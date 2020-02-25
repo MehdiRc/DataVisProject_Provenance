@@ -39,6 +39,6 @@
 <li>Inclusion/Exclusion filters for the actions (not yet implemented for dimensions).</li>
 <li>"No loop" filter to remove the instances where an action loops over itself.</li>
 </ul>
-<p><strong style="color: #000;">The Demo:</strong>&nbsp;<br /><a href="https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be">https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be</a></p>
+<p><strong style="color: #000;">Video Demo:</strong>&nbsp;<br /><a href="https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be">https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be</a></p>
 <p></p>
 
