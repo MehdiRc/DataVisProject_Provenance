@@ -37,6 +37,7 @@ _We have provided the python code (DataVis.py) and an example dataset (ExampleIn
 <li>Min/max filters for the pattern counts.</li>
 <li>Inclusion/Exclusion filters for the actions (not yet implemented for dimensions).</li>
 <li>"No loop" filter to remove the instances where an action loops over itself.</li>
+<li>The Ability to save/download a Png of the generated graph (to keep or share).</li>
 </ul>
 <p><strong style="color: #000;">Video Demo (Previous version|before reviews):</strong>&nbsp;<br /><a href="https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be">https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be</a></p>
 <p></p>
