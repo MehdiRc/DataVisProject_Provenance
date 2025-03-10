@@ -40,9 +40,7 @@ _We have provided the python code (DataVis.py) and an example dataset (ExampleIn
 <li>The Ability to save/download a Png of the generated graph (to keep or share).</li>
 </ul>
 <p><strong style="color: #000;">Video Demo (Previous version|before reviews):</strong>&nbsp;<br /><a href="https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be">https://www.youtube.com/watch?v=p8_xa7Fg_ww&amp;feature=youtu.be</a></p>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=p8_xa7Fg_ww&amp
-" target="_blank"><img src="http://img.youtube.com/vi/p8_xa7Fg_ww&amp/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 <p></p>
 
 # How to run:
